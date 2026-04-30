@@ -1,5 +1,5 @@
 {
-  "name": "zentra",
+  "name": "fluxa",
   "private": true,
   "scripts": {
     "dev": "next dev",
